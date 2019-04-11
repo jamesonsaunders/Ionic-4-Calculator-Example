@@ -1,8 +1,8 @@
 # Ionic 4 Calculator Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Makeing a Calculator App in Ionic 4 – Beginner Tutorial](https://youtu.be/nYMIV-nvpKk).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Making a Calculator App in Ionic 4 – Beginner Tutorial](https://youtu.be/nYMIV-nvpKk) as well as the blog article [Ionic 4 Calculator App Example](https://blog.jamibot.com/ionic-4-calculator).
 
-[![Makeing a Calculator App in Ionic 4 – Beginner Tutorial](https://img.youtube.com/vi/nYMIV-nvpKk/maxresdefault.jpg)](https://youtu.be/nYMIV-nvpKk)
+[![Making a Calculator App in Ionic 4 – Beginner Tutorial](https://img.youtube.com/vi/nYMIV-nvpKk/maxresdefault.jpg)](https://youtu.be/nYMIV-nvpKk)
 
 A minimal calculator built in Ionic 4.
 
